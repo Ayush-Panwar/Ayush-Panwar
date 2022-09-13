@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Soruce Project
 - 📫 How to reach me ayushpanwar717@gmail.com
 
- Here are Some Latest Project Which i build :-
+ Here are Some of my Latest Project Which i build :-
  
   DAPP Token Exchange:- https://dapp-token-exchange-ayushpanwar.on.fleek.co/
   
