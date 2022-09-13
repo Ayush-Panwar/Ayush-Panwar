@@ -6,6 +6,6 @@
 
  Here are Some of my Latest Project Which i build :-
  
-  - DAPP Token Exchange:- https://dapp-token-exchange-ayushpanwar.on.fleek.co/
+  - DAPP Token Exchange(ERC20):- https://dapp-token-exchange-ayushpanwar.on.fleek.co/
   
   - Facebook Clone using MERN Stack :- https://facebook-clone--ayush-panwar.herokuapp.com/
