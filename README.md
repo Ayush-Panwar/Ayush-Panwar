@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayush-Panwar
-- 👀 I’m interested in Web3,Full Stack Development
+- 👀 I’m interested in Web3, Full Stack Development
 - 🌱 I’m currently learning building NFT MarketPlace
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me ayushpanwar717@gmail.com
