@@ -8,4 +8,5 @@
  
   - DAPP Token Exchange(ERC20):- https://dapp-token-exchange-ayushpanwar.on.fleek.co/
   
-  - Facebook Clone using MERN Stack :- https://facebook-clone--ayush-panwar.herokuapp.com/
+  - Shoppay (Ecommerce) using MERN Stack :- https://shoppay-delta.vercel.app/ 
+  - WhatsApp Clone using MERN Stack :- https://whatsapp-clone-ayush-panwar.netlify.app/
