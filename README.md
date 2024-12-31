@@ -6,7 +6,7 @@
 
  Here are Some of my Latest Project which I build :-
  
-  - BuilderBee (A drag and Drop website Builder):- https://builderbee.vercel.app
+  - BuilderBee (A drag and Drop website Builder):- https://builder-bee-static.vercel.app/
   
-  - Boardy (A real time collaborative board app) :- https://board-app-kohl.vercel.app/
+  - Boardy (A real time collaborative board app) :- https://board-static.vercel.app/
   
